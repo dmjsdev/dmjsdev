@@ -95,7 +95,7 @@ Open to remote (EU/US) and relocation. Engineering mindset → architecture, cla
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmjsdev&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=dmjsdev&theme=react&hide_border=true" alt="GitHub Streak" />
+  <!-- <img height="180em" src="https://streak-stats.demolab.com?user=dmjsdev&theme=react&hide_border=true" alt="GitHub Streak" /> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmjsdev&theme=react" alt="GitHub Streak Stats"/> -->
 </div>
 
