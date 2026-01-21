@@ -2,32 +2,53 @@
 
 ## 🚀 Experience
 
-### 💼 Senior Frontend Engineer — Self‑Employed / Contract
-Apr 2024 → Present
+## Fullstack Developer (React, TypeScript, NestJS, Docker, RAG)  
+**Nov 2023 — Present (2 years 3 months)**
 
-- ⚡ Built AI‑driven interfaces (React, Next.js, TS, Electron)
-- 🔥 Implemented chat UIs, dashboards, admin tools, LLM integrations
-- 🚀 Developed real‑time streaming platform UI: HLS/WebRTC player, chat, payments, moderation
-- 🧩 Set up greenfield projects: architecture, state mgmt, API layers, build systems
-- 🤝 High ownership, fast delivery, tight collaboration with backend/product
+🟢 Building and scaling a product from scratch — from architecture to production. Team Lead (4 developers). Working at the intersection of AI, 3D, and cross-platform development.
 
-### 🏥 Frontend Developer (React) — MedControl · Contract
-Dec 2023 → Feb 2025
+- Built a scalable AI product from the ground up using **NestJS / Vite / React**: backend APIs, **vector search with Qdrant**, and a unified prompt library for multiple scenarios.
+- Delivered in high-uncertainty environments and tight deadlines.
+- Made key architectural decisions; maintained and evolved the whole codebase.
+- Led a team of 4 JavaScript developers: task breakdown, mentoring, and code reviews.
+- Integrated **Unity3D** into a **React Native** app to render bot avatars with facial animation for text-to-speech in chats.
+- Implemented chats for users and bots; integrated push notifications in the mobile app.
+- Solved non-trivial engineering tasks across backend, **SQLite**, **React Native**, **Electron**, **Ollama/LLMs**.
 
-- 🧱 Refactored and stabilized a large React codebase
-- 🧹 Reduced technical debt, fixed hundreds of production issues
-- 📈 Improved performance on heavy screens (forms, tables)
-- 🧩 Introduced FSD architecture, standardized UI components
-- 🛠️ Strengthened delivery pipeline and reliability of core workflows
+**Products:** mobile AI chat, local “ChatGPT”-like assistant  
+**Tech stack:** React, TypeScript, Vite, Ollama, LLMs, Docker, Qdrant, NestJS, Electron, TanStack, React Native, Zustand, Redux, REST, WebSockets
 
-### 🧰 Frontend Engineer — 42Solution · Full‑time
-Apr 2021 → Apr 2024
+## Frontend Developer (React, Vue, Pinia, TypeScript) — LLC “42Solution”  
+**Apr 2021 — Mar 2024 (3 years)**
 
-- 🔧 Core engineer on enterprise applications (Vue 2/3, TS)
-- 🧠 Introduced TypeScript and rebuilt architecture of legacy modules
-- 📦 Delivered 3 production apps: Electron desktop, e‑signature portal, task manager
-- ♻️ Built reusable UI systems, improved perf on critical screens
-- ✅ Drove stability, code quality, and development speed across the team
+🟢 Core developer for the company’s key products. Improved the codebase, introduced architecture practices and TypeScript, and elevated overall project quality.
+
+- Mentored 2 junior JavaScript developers; decomposed features and conducted code reviews.
+- Designed a scalable project structure split into micro-modules using **Module Federation**.
+- Delivered features: interactive charts, complex forms, tabular reports, file uploads, and digital signatures.
+- Completed 3 company projects:
+  - **Electron** desktop app for Windows 10  
+  - Electronic signature portal (CryptoPro)  
+  - Client task management app (**React + Vite**)
+
+🏆 Awarded “Best Frontend in the company” for consistent delivery on complex tasks and long-term commitment despite distance.
+
+**Main product:** “FamilyOffice” — large admin dashboard (contracts, loans, subscriptions, account management)  
+**Tech stack:** Vue (Vue 2 / Vue 3), JavaScript, TypeScript, Vuex, Pinia, Module Federation, Vite, Webpack, Element Plus, REST, code review
+
+## Frontend Developer (React, Redux, Vue, Pinia, TypeScript) — MedControl  
+**Nov 2018 — Apr 2021 (2 years 6 months)**
+
+🟢 Stabilized a legacy React codebase, established a reliable development process, and accelerated release cycles.
+
+- Performed deep refactoring and decomposed a monolithic React application.
+- Improved product stability and frontend quality by reducing technical debt.
+- Streamlined releases and QA collaboration; fixed hundreds of bugs.
+- Introduced **FSD (Feature-Sliced Design)** to improve scalability and maintainability.
+- Built dozens of reusable UI components (form controls, layout primitives, UI states).
+
+**Main product:** MedControl — doctors’ dashboard with patient video calls  
+**Tech stack:** React, Redux, Apollo, GraphQL, Webpack, Vue 2 / Vue 3, Material UI (MUI), REST
 
 ## 🎓 Education
 
