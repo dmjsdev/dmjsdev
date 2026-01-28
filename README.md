@@ -23,7 +23,7 @@ Daily stack: TypeScript, React, Vue 2/3, Next.js, Vite, Electron, Node/Nest, RES
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmjsdev&repo=neural-animation&theme=react&hide_border=false)](https://github.com/dmjsdev/neural-animation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmjsdev&repo=neural-animation&theme=react&hide_border=true)](https://github.com/dmjsdev/neural-animation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmjsdev&repo=packlock&theme=react&hide_border=true)](https://github.com/dmjsdev/packlock)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dmjsdev&repo=favicon-forge&theme=react&hide_border=true)](https://github.com/dmjsdev/favicon-forge)
 
